@@ -1,0 +1,11 @@
+3 3
+Age Name Home
+14 21 68
+Bob Eve Alice
+Venice Paris Orlando
+4
+Bob = 21
+Paris > Eve
+Eve < Bob
+Alice ! Orlando
+Venice Alice 21
