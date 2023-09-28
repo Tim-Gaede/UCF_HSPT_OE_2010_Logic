@@ -1,0 +1,184 @@
+7
+3 3
+Age Name Home
+14 21 68
+Bob Eve Alice
+Venice Paris Orlando
+4
+Bob = 21
+Paris > Eve
+Eve < Bob
+Alice ! Orlando
+Venice Alice 21
+4 5
+Age Name Home Something
+1 2 3 4 5
+Four Two One Three Five
+Cinco Uno Dos Cuatro Tres
+Fifth Third First Second Fourth
+99
+One = 1
+One < Dos
+One < Tres
+One < Cuatro
+One < Cinco
+Two > Uno
+Two = 2
+Two < Tres
+Two < Cuatro
+Two < Cinco
+Three > Uno
+Three > Dos
+Three = 3
+Three < Cuatro
+Three < Cinco
+Four > Uno
+Four > Dos
+Four > Tres
+Four = 4
+Four < Cinco
+Five > Uno
+Five > Dos
+Five > Tres
+Five > Cuatro
+Five = 5
+First = 1
+Second = 2
+Third = 3
+Fourth = 4
+Fifth = 5
+One < Second
+One < Third
+One < Fourth
+One < Fifth
+Two > First
+Two < Third
+Two < Fourth
+Two < Fifth
+Three > First
+Three > Second
+Three < Fourth
+Three < Fifth
+Four > First
+Four > Second
+Four > Third
+Four < Fifth
+Five > First
+Five > Second
+Five > Third
+Five > Fourth
+Uno < Dos
+Dos < Tres
+Tres < Cuatro
+Cuatro < Cinco
+Fifth > Fourth
+Fourth > Third
+Third > Second
+Second > First
+One < Two
+Two < Three
+Three < Four
+Four < Fifth
+Uno = 1
+Dos = 2
+Tres = 3
+Cuatro = 4
+Cinco = 5
+One ! 2
+One ! 3
+One ! 4
+One ! 5
+Two ! 1
+Two ! 3
+Two ! 4
+Two ! 5
+Three ! 1
+Three ! 2
+Three ! 4
+Three ! 5
+Four ! 1
+Four ! 2
+Four ! 3
+Four ! 5
+Five ! 1
+Five ! 2
+Five ! 3
+Five ! 4
+Uno ! 2
+Uno ! 3
+Uno ! 4
+Uno ! 5
+Dos ! 1
+Dos ! 3
+Dos ! 4
+Dos ! 5
+Tres ! 1
+Tres ! 2
+Tres ! 4
+Tres ! 5
+One Dos Third Fourth 5
+3 3
+Age LOL LMAO
+100 200 300
+One Two Three
+First Second Third
+6
+One = 100
+Two = 200
+Three = 300
+First = 100
+Second = 200
+Third = 300
+One Second 300
+3 3
+Age LOL LMAO
+1000 2000 3000
+Three Two One
+First Third Second
+4
+One < Two
+Two < Three
+First < Second
+Second < Third
+Three 2000 First
+3 3
+Age LOL LMAO
+1 2 3
+One Two Three
+First Second Third
+4
+Three > Two
+Two > One
+Third > Second
+Second > First
+First Two 3
+3 3
+Age LOL LMAO
+1 2 3
+One Two Three
+First Second Third
+4
+Three > Two
+Two > One
+First < Second
+Second < Third
+One Second 3
+3 3
+Age LOL LMAO
+1 2 3
+Three Two One
+Second First Third
+12
+One ! 2
+One ! 3
+First ! 2
+First ! 3
+Two ! 1
+Two ! 3
+Second ! 1
+Second ! 3
+Three ! 1
+Three ! 2
+Third ! 1
+Third ! 2
+One Second 3
